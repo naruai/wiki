@@ -1,5 +1,7 @@
 # Building TensorFlow without AVX instruction
 
+ * Japanese language wiki [here. 日本語wikiはこっち](http://naruai.blog.jp/archives/988466.html)
+
 ## Celeron N4000 has no AVX instruction
 
 Standard TensorFlow could not work on Celeron N4000!<br/>
