@@ -129,7 +129,7 @@ Then build TensorFlow.<br/>
 Open another terminal on host.<br/>
 ~~~
 $ cd ~/tfwork # work folder
-$ pip install tensorflow-1.14.0-cp36-cp36m-linux_x86_64.whl
+$ pip3 install tensorflow-1.14.0-cp36-cp36m-linux_x86_64.whl
 $ python3 -c "import tensorflow as tf; print(tf.__version__)"
 1.14.0
 ~~~
