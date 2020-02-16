@@ -1,0 +1,60 @@
+Init cImgProc
+('random x,th=', 0.2, 0)
+('random x,th=', 0.2, 0)
+('random x,th=', -0.2, 0)
+('random x,th=', -0.2, 0)
+('random x,th=', -0.2, 0)
+('random x,th=', 0, -1)
+('random x,th=', 0.2, 0)
+('random x,th=', 0, 1)
+('random x,th=', 0, 1)
+('random x,th=', 0, -1)
+('random x,th=', 0, 1)
+('random x,th=', 0, -1)
+('random x,th=', 0, 1)
+('random x,th=', 0.2, 0)
+('random x,th=', 0, -1)
+('random x,th=', 0, 1)
+('random x,th=', -0.2, 0)
+('random x,th=', 0.2, 0)
+('random x,th=', 0.2, 0)
+('random x,th=', -0.2, 0)
+('random x,th=', -0.2, 0)
+('random x,th=', -0.2, 0)
+('random x,th=', 0, 1)
+('random x,th=', -0.2, 0)
+('random x,th=', 0, -1)
+('random x,th=', 0, -1)
+('random x,th=', 0.2, 0)
+... logging to /root/.ros/log/4cd75184-50c4-11ea-9168-0242ac110002/roslaunch-42ee438b649a-2624.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/root/catkin_ws/src/burger_war/burger_war/launch/your_burger.launch
+[1mstarted roslaunch server http://42ee438b649a:39037/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    randomRun (burger_war/randomRun.py)
+
+auto-starting new master
+[1mprocess[master]: started with pid [2634][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/root/catkin_ws/src/burger_war/burger_war/launch/your_burger.launch http://localhost:11311
+[1msetting /run_id to 4cd75184-50c4-11ea-9168-0242ac110002[0m
+[1mprocess[rosout-1]: started with pid [2647][0m
+started core service [/rosout]
+[1mprocess[randomRun-2]: started with pid [2664][0m
+[randomRun-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

@@ -1,0 +1,1474 @@
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: libGL error: Version 4 or later of flush extension not found
+Version 4 or later of flush extension not found
+libGL error: libGL error: failed to load driver: i915
+failed to load driver: i915
+libGL error: failed to open drm device: No such file or directory
+libGL error: failed to load driver: i965
+libGL error: failed to open drm device: No such file or directory
+libGL error: failed to load driver: i965
+X Error: BadAccess (attempt to access private resource denied) 10
+  Extension:    130 (MIT-SHM)
+  Minor opcode: 1 (X_ShmAttach)
+  Resource id:  0x3c00004
+X Error: BadShmSeg (invalid shared segment parameter) 128
+  Extension:    130 (MIT-SHM)
+  Minor opcode: 5 (X_ShmCreatePixmap)
+  Resource id:  0x3c0000c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0000d
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0000d
+X Error: BadAccess (attempt to access private resource denied) 10
+  Extension:    130 (MIT-SHM)
+  Minor opcode: 1 (X_ShmAttach)
+  Resource id:  0x3c00064
+X Error: BadShmSeg (invalid shared segment parameter) 128
+  Extension:    130 (MIT-SHM)
+  Minor opcode: 5 (X_ShmCreatePixmap)
+  Resource id:  0x3c0006b
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006c
+X Error: BadAccess (attempt to access private resource denied) 10
+  Extension:    130 (MIT-SHM)
+  Minor opcode: 1 (X_ShmAttach)
+  Resource id:  0x3c00064
+X Error: BadShmSeg (invalid shared segment parameter) 128
+  Extension:    130 (MIT-SHM)
+  Minor opcode: 5 (X_ShmCreatePixmap)
+  Resource id:  0x3c0006d
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x3c0006c
+X Error: BadShmSeg (invalid shared segment parameter) 128
+  Extension:    130 (MIT-SHM)
+  Minor opcode: 2 (X_ShmDetach)
+  Resource id:  0x3c0006b
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 62 (X_CopyArea)
+  Resource id:  0x3c0006e
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::thread_resource_error> >'
+  what():  boost thread: trying joining itself: Resource deadlock avoided

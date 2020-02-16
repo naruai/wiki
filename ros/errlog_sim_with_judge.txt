@@ -1,0 +1,4 @@
++ gnome-terminal -e 'python judge/judgeServer.py'
+
+** (gnome-terminal.real:1709): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-tly7OArons: Connection refused
+Error constructing proxy for org.gnome.Terminal:/org/gnome/Terminal/Factory0: Error calling StartServiceByName for org.gnome.Terminal: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.gnome.Terminal exited with status 8
