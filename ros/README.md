@@ -2,7 +2,7 @@
 
 ## try docker
 
-docker ubuntu:16.04 使用して、ros 使用
+docker ubuntu:16.04 菴ｿ逕ｨ縺励※縲〉os 菴ｿ逕ｨ
 
 status:
  - install ros : done
