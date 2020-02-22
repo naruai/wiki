@@ -2,9 +2,11 @@
 
 ## try melodic --ubuntu18--
 
-ubuntu 18.04 で ros ; 英語ページには情報あった
+  - [ubuntu1804ros](https://symfoware.blog.fc2.com/blog-entry-2265.html)
 
-  - kinetic/16.04 -> melodic/18.04
+ubuntu 18.04 で ros ; 英語ページにはmelodicの情報あった
+
+  - kinetic/ubuntu16.04 -> melodic/ubuntu18.04
 
   - [wiki.ros.org/melodic/Installation/Ubuntu](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
