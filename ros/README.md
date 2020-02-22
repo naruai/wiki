@@ -1,5 +1,35 @@
 # ros wiki
 
+## try Lidar
+
+Lidarのrangesの距離情報を可視化（左上の線画）
+
+![](Screenshot-from-2020-02-22-17-17-46.jpg)
+
+~~~
+    # lidar scan topic call back sample
+    # update lidar scan state
+    def lidarCallback(self, data):
+        self.scan = data
+        #rospy.loginfo(self.scan)
+        self.limg=np.zeros((400,400), np.float)
+        cv2.line(self.limg,(200,0),(200,400),0.5,1)
+        cv2.line(self.limg,(0,200),(400,200),0.5,1)
+        ranges=self.scan.ranges
+        p0=[ 200.0, 200-ranges[0]*200/2.0 ]
+        for it in range(360):
+            t=-math.pi*(it+90)/180.0
+            r=ranges[it]*200.0/2.0
+            p1=[ 200+r*math.cos(t), 200+r*math.sin(t) ]
+            if dist2d(p0,p1)<20:
+                cv2.line(self.limg,(int(p0[0]),int(p0[1])),(int(p1[0]),int(p1[1])),1.0,2)
+            else:
+                cv2.line(self.limg,(int(p0[0]),int(p0[1])),(int(p1[0]),int(p1[1])),0.2,2)
+            p0=p1
+        cv2.imshow("Lidar window", self.limg)
+        cv2.waitKey(1)
+~~~
+
 ## try melodic --ubuntu18--
 
   - [ubuntu1804ros](https://symfoware.blog.fc2.com/blog-entry-2265.html)
