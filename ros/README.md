@@ -46,6 +46,7 @@ status:
 
   - sudo apt-get install ros-kinetic-aruco-ros ; melodic 見当たらず… git clone - cmake - make した [aruco-roc](https://github.com/pal-robotics/aruco_ros)
     - **まだ問題あり** (審判エラー出て動いてなかった)
+      - catkin_make
 
   - [GiHub OneNightROBOCON/burger_war](https://github.com/OneNightROBOCON/burger_war/blob/master/README.md)
     - catkin_ws/src/burger_war/script/*.sh の gnote-terminnal -e "**python** ... -> **python3** に書き換え
