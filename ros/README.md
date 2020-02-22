@@ -35,7 +35,7 @@ Lidarのrangesの距離情報を可視化（左上の線画）
   - [ubuntu1804ros](https://symfoware.blog.fc2.com/blog-entry-2265.html)
 
 ubuntu 18.04 で ros ; 英語ページにはmelodicの情報あった
-aruco-rosはaptで取ってこれずgithubから落としてmakeしたけど、docker内のubuntu16.04からros動かすより楽
+aruco-rosはaptで取ってこれずgithubから落としてmakeしたけど、docker内のubuntu16.04からros動かすより楽？
 
   - kinetic/ubuntu16.04 -> melodic/ubuntu18.04
 
@@ -45,13 +45,14 @@ status:
   - install ros : ok
 
   - sudo apt-get install ros-kinetic-aruco-ros ; melodic 見当たらず… git clone - cmake - make した [aruco-roc](https://github.com/pal-robotics/aruco_ros)
+    - **まだ問題あり** (審判エラー出て動いてなかった)
 
   - [GiHub OneNightROBOCON/burger_war](https://github.com/OneNightROBOCON/burger_war/blob/master/README.md)
     - catkin_ws/src/burger_war/script/*.sh の gnote-terminnal -e "**python** ... -> **python3** に書き換え
 
 ## try docker ubuntu 16.04
 
-**中止。ubuntu18.04で動かす方が、XのDisplay情報なんとかするより早かった...**
+**中止。ubuntu18.04で動かす方が、XのDisplay情報なんとかするより早い？...**
 
 docker ubuntu:16.04 使用して、ros 使用。xtermでターミナル複数開いて、gazeboと
 
