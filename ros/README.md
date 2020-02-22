@@ -11,6 +11,8 @@ ubuntu 18.04 で ros ; 英語ページには情報あった
 status:
   - install ros : ok
 
+  - sudo apt-get install ros-kinetic-aruco-ros ; melodic 見当たらず… git clone - cmake - make した [aruco-roc](https://github.com/pal-robotics/aruco_ros)
+
 ## try docker
 
 docker ubuntu:16.04 使用して、ros 使用。xtermでターミナル複数開いて、gazeboと
