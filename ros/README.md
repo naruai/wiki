@@ -1,5 +1,16 @@
 # ros wiki
 
+## try melodic --ubuntu18--
+
+ubuntu 18.04 で ros ; 英語ページには情報あった
+
+  - kinetic/16.04 -> melodic/18.04
+
+  - [wiki.ros.org/melodic/Installation/Ubuntu](http://wiki.ros.org/melodic/Installation/Ubuntu)
+
+status:
+  - install ros : ok
+
 ## try docker
 
 docker ubuntu:16.04 使用して、ros 使用。xtermでターミナル複数開いて、gazeboと
