@@ -5,6 +5,7 @@
   - [ubuntu1804ros](https://symfoware.blog.fc2.com/blog-entry-2265.html)
 
 ubuntu 18.04 で ros ; 英語ページにはmelodicの情報あった
+aruco-rosはaptで取ってこれずgithubから落としてmakeしたけど、docker内のubuntu16.04からros動かすより楽
 
   - kinetic/ubuntu16.04 -> melodic/ubuntu18.04
 
@@ -15,7 +16,9 @@ status:
 
   - sudo apt-get install ros-kinetic-aruco-ros ; melodic 見当たらず… git clone - cmake - make した [aruco-roc](https://github.com/pal-robotics/aruco_ros)
 
-## try docker
+## try docker ubuntu 16.04
+
+**中止。ubuntu18.04で動かす方が、XのDisplay情報なんとかするより早かった...**
 
 docker ubuntu:16.04 使用して、ros 使用。xtermでターミナル複数開いて、gazeboと
 
