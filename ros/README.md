@@ -1,5 +1,11 @@
 # ros wiki
 
+## try move w/ Lidar
+
+審判動かないんで、とりあえず動かしただけ
+https://github.com/naruai/burger_war/blob/master/burger_war/launch/your_burger.launch
+https://github.com/naruai/burger_war/blob/master/burger_war/scripts/red_robo.py
+
 ## try Lidar
 
 Lidarのrangesの距離情報を可視化（左上の線画）
