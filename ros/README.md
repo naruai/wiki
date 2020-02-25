@@ -96,8 +96,6 @@ status:
   - [turtlebot_gazeboTutorials](http://wiki.ros.org/turtlebot_gazebo/Tutorials/indigo/Make%20a%20map%20and%20navigate%20with%20it)
 
 
-
-
 ### 参考link2
 
   - [turtlebot3](http://emanual.robotis.com/docs/en/platform/turtlebot3/basic_operation/)
@@ -108,6 +106,14 @@ status:
   - []()
 
   - [TurtleBot3で地図作成からナビゲーションまで](https://proc-cpuinfo.fixstars.com/2018/11/turtlebot3-navigation/)
+
+### ref link
+
+  - [ROSでの超基本的なプログラム作成](https://qiita.com/Kohei_Koizumi/items/5c8062ce7f71b9bb6e33)
+
+> r = rospy.Rate(10)
+>>これは１秒間に送る送信回数を定めています。
+>>今回でいうと１秒間に１０回ということになりますね。
 
 
 #### 解決策探し中・・・
