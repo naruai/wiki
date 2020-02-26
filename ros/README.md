@@ -117,6 +117,8 @@ status:
 
   - [ROS講座31 python基礎](https://qiita.com/srs/items/a0ce380687d9cc896404)
 
+  - [ROSorg シンプルな配信者(Publisher)と購読者(Subscriber)を書く(Python)](http://wiki.ros.org/ja/ROS/Tutorials/WritingPublisherSubscriber%28python%29)
+
 #### 解決策探し中・・・
 
   - [Qiita DockerのUbuntuにデスクトップ環境を作成](https://qiita.com/FukuharaYohei/items/a6c1e1a2ba8d1285cfa5)
